@@ -72,7 +72,7 @@ This repo was just revamped to suit an Anime-centric & comedy loving community. 
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [Miwa Kasumi Support](https://t.me/MiwaKasumi_Support) or simply submit a pull request on the readme.
 
 
 ## Devs & Contributors
