@@ -25,14 +25,14 @@ async def _(event):
         # print(reason)
         start_time = time.time()
         sql.set_afk(sender.id, reason, start_time)
-        await event.reply("**{} is now AFK !**".format(firsname), parse_mode="markdown")
+        await event.reply("**{} is LMAO DED !**".format(firsname), parse_mode="markdown")
         return
 
     if sql.is_afk(sender.id):
         res = sql.rm_afk(sender.id)
         if res:
             firstname = sender.first_name
-            text = "**{} is no longer DED !**".format(firstname)
+            text = "**{} came back to life !**".format(firstname)
             await event.reply(text, parse_mode="markdown")
 
 
