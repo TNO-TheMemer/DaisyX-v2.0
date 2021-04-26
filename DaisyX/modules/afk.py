@@ -83,7 +83,7 @@ async def _(event):
             elapsed_time = time.time() - float(etime)
             final = time.strftime("%Hh: %Mm: %Ss", time.gmtime(elapsed_time))
             fst_name = "User"
-            res = "**{} is AFK !**\n\n**Last seen**: {}".format(fst_name, final)
+            res = "**{} is DED !**\n\n**Last seen**: {}".format(fst_name, final)
 
             await event.reply(res, parse_mode="markdown")
         else:
@@ -91,7 +91,7 @@ async def _(event):
             elapsed_time = time.time() - float(etime)
             final = time.strftime("%Hh: %Mm: %Ss", time.gmtime(elapsed_time))
             fst_name = "This user"
-            res = "**{} is AFK !**\n\n**He said to me that**: {}\n\n**Last seen**: {}".format(
+            res = "**{} is DED !**\n\n**He said to me that**: {}\n\n**Last seen**: {}".format(
                 fst_name, user.reason, final
             )
             await event.reply(res, parse_mode="markdown")
