@@ -7,10 +7,10 @@
 <p align="center"><a href="https://t.me/MiwaKasumi_Support"><img src="https://telegra.ph/file/10b57a91a09a468b437b4.jpg" width="400"></a>
 
 
-### The first AioGram based modified groupmanagement bot fully optimized for heroku deploys
+### The first AioGram based modified groupmanagement bot
 ## Avaliable on Telegram as [@Miwa_Kasumi_Bot](https://t.me/miwa_kasumi_bot)
 
-# 🏃‍♂️ Easy Deploy 
+# 🏃‍♂️ Just Deploy Already
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TNO-TheMemer/MiwaKasumi.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
