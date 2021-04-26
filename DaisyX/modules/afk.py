@@ -32,7 +32,7 @@ async def _(event):
         res = sql.rm_afk(sender.id)
         if res:
             firstname = sender.first_name
-            text = "**{} is no longer AFK !**".format(firstname)
+            text = "**{} is no longer DED !**".format(firstname)
             await event.reply(text, parse_mode="markdown")
 
 
