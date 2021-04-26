@@ -7,7 +7,6 @@
 <p align="center"><a href="https://t.me/MiwaKasumi_Support"><img src="https://telegra.ph/file/10b57a91a09a468b437b4.jpg" width="400"></a>
 
 
-### The first AioGram based modified groupmanagement bot
 ## Avaliable on Telegram as [@Miwa_Kasumi_Bot](https://t.me/miwa_kasumi_bot)
 
 # 🏃‍♂️ Just Deploy Already
