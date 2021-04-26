@@ -8,7 +8,7 @@
 
 
 ### The first AioGram based modified groupmanagement bot fully optimized for heroku deploys
-## Avaiilable on Telegram as [@Miwa_Kasumi_Bot](https://t.me/miwa_kasumi_bot)
+## Avaliable on Telegram as [@Miwa_Kasumi_Bot](https://t.me/miwa_kasumi_bot)
 
 # 🏃‍♂️ Easy Deploy 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TNO-TheMemer/MiwaKasumi.git)
@@ -16,22 +16,10 @@
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
 # ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MiwaKasumi_xD"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/MiwaKasumi_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-### Self-hosting (For Devs) ⚔
-```sh
-# Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyX-v2.0
-$ cd DaisyX-v2.0
-# Upgrade sources
-$ bash deploy.sh
-# Install All Requirements 
-$ pip(3) install -r requirements.txt
-# Rename ./DaisyX/data/bot_conf.yaml.example to bot_conf.yaml and fill
-# Start Bot 
-$ python(3) -m DaisyX
-```
+
 
 ### Mandatory Vars 📒
 ```
@@ -48,7 +36,7 @@ $ python(3) -m DaisyX
     [-] REDIS_URI: from redislabs.com (remove port)
     [-] REDIS_PORT: At the end of uri
     [-] REDIS_PASS: pass
-[+] The DaisyX won't run without setting the mandatory vars.
+[+] Miwa won't run without setting the mandatory vars.
 ```
 
 # 😍 Credits
@@ -89,8 +77,8 @@ Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport
 
 
 ## Devs & Contributors
-
-#### • LUCIFER_MORNINGSTAR    »»  <a href="https://github.com/lucifeermorningstar" alt="lucifeermorningstar"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (OWNER)
+#### • TNO - The Memer    »»  <a href="https://github.com/TNO-TheMemer" alt="TNO-TheMemer"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (Just a Noob who Forked)
+#### • LUCIFER_MORNINGSTAR    »»  <a href="https://github.com/lucifeermorningstar" alt="lucifeermorningstar"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (DaisyX Repo Owner)
 #### • INUKA ASITH    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/InukaAsith-107D8D?logo=github" /></a> (DEV)
 #### • ROSELOVERX  »»  <a href="https://github.com/Amarnathcdj" alt="RoseLoverX"> <img src="https://img.shields.io/badge/RoseLoverX-82CAFA?logo=github" /></a> (DEV)
 #### • ANJANA_MA »»  <a href="https://github.com/Anjana_ma" alt="Anjana"> <img src="https://img.shields.io/badge/Anjana-30302f?logo=github" /></a>
@@ -109,3 +97,4 @@ Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport
 
 > And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
 > Special thanks to you for using bot
+> Enough Already I am noob at editing
