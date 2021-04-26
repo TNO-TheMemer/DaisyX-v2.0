@@ -77,7 +77,7 @@ Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport
 
 
 ## Devs & Contributors
-#### • TNO - The Memer    »»  <a href="https://github.com/TNO-TheMemer" alt="TNO-TheMemer"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (Just a Noob who Forked)
+#### • TNO - The Memer    »»  <a href="https://github.com/TNO-TheMemer" alt="TNO-TheMemer"> <img src="https://img.shields.io/badge/TNO-TheMemer-90302f?logo=github" /></a> (Just a Noob who Forked)
 #### • LUCIFER_MORNINGSTAR    »»  <a href="https://github.com/lucifeermorningstar" alt="lucifeermorningstar"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (DaisyX Repo Owner)
 #### • INUKA ASITH    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/InukaAsith-107D8D?logo=github" /></a> (DEV)
 #### • ROSELOVERX  »»  <a href="https://github.com/Amarnathcdj" alt="RoseLoverX"> <img src="https://img.shields.io/badge/RoseLoverX-82CAFA?logo=github" /></a> (DEV)
